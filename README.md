@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RJGARAY4
-- 👀 I’m interested in [;aying
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on others
+- 💞️ I’m looking to collaborate on others in the litecloud company
 - 📫 How to reach me...email me rjgaray4@gmail.com
 
 <!---
